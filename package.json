@@ -2,9 +2,9 @@
   "name": "sample",
   "version": "1.0.0",
   "description": "my sample node app",
-  "main": "fill2.js",
+  "main": "multi_file_demo.js",
   "scripts": {
-  "start": "node fill2.js"
+  "start": "node multi_file_demo.js"
 },
   "repository": {
   "type": "git",
